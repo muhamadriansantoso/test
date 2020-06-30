@@ -4,3 +4,4 @@
 <div class="i">
 		<a href="">Lorems ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, quasi! Quis quibusdam molestias officiis eaque aliquid, vitae quam corrupti, quidem ipsa vel optio accusantium dolorum ullam, nulla, voluptatibus atque aperiam!</a>
 </div>
+<?php include ('footer.php') ?>
