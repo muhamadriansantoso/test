@@ -1,1 +1,1 @@
-<h1 style="color: red;">etstttt</h1>
+<h1 style="color: #eaeaea;">etstttt</h1>
